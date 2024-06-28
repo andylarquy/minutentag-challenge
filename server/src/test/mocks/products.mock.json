@@ -1,0 +1,50 @@
+[
+	{
+		"abv": "4.4%",
+		"brand": "mock brand",
+		"id": 1,
+		"image": "mock image",
+		"information": "mock info",
+		"origin": "mock origin",
+		"skus": [
+			 {
+					"code": "1",
+					"name": "12 - 24oz Cans"
+			 },
+			 {
+					"code": "2",
+					"name": "18 - 12oz Cans"
+			 },
+			 {
+					"code": "3",
+					"name": "Half Barrel"
+			 }
+		],
+		"style": "mock style",
+		"substyle": "mock substyle"
+ },
+ {
+	"abv": "2.4%",
+	"brand": "mock brand 2",
+	"id": 2,
+	"image": "mock image 2",
+	"information": "mock info 2",
+	"origin": "mock origin 2",
+	"skus": [
+		 {
+				"code": "4",
+				"name": "12 - 24oz Cans"
+		 },
+		 {
+				"code": "5",
+				"name": "18 - 12oz Cans"
+		 },
+		 {
+				"code": "6",
+				"name": "Half Barrel"
+		 }
+	],
+	"style": "mock style 2",
+	"substyle": "mock substyle 2"
+}
+]

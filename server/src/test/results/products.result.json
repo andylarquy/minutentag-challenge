@@ -1,0 +1,16 @@
+[
+	{
+		 "id":1,
+		 "brand":"mock brand",
+		 "brandCode":"mock-brand",
+		 "image":"mock image",
+		 "price":"$28.65"
+	},
+	{
+		 "id":2,
+		 "brand":"mock brand 2",
+		 "brandCode":"mock-brand-2",
+		 "image":"mock image 2",
+		 "price":"$29.40"
+	}
+]
